@@ -1,4 +1,4 @@
-# 
+# Personalizado LangChain extensões. Com memória contextual e arquitetura escalável — otimizado para máximo desempenho e eficiência.
 
 
 
